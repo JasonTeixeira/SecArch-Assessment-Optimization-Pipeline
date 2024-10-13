@@ -1,4 +1,4 @@
-# SecArch-Assessment-Optimization-Pipeline
+# Security Architect Assessment Optimization Pipeline
 
 ### Master Security Assessment and Optimization Template
 
